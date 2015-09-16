@@ -1,0 +1,3 @@
+001-0774a23	TKD 20-1142b	buddhist/K-koreana/20-tif/1100-1199/20_1142_B.TIF
+001-0774b18	TKD 20-1142c	buddhist/K-koreana/20-tif/1100-1199/20_1142_C.TIF
+001-0774b00	T 001-0774b	buddhist/T-taisho/T14/07/T14-0774.png
