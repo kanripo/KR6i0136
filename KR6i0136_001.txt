@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:46.675772
+#+DATE: 2015-08-30 20:10:48.117604
 #+TITLE: 犍陀國王經
 #+PROPERTY: CBETA_ID T14n0506
 #+PROPERTY: ID KR6i0136
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 506
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0136_T_000-0774a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0136_T_001-0774a> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.506¶
-
- 犍陀國王經¶
+No. 506¶
+犍陀國王經¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -87,4 +86,4 @@ No.506¶
 諸比丘僧、比¶
 丘尼、優婆塞、優婆夷、天、龍、鬼神，聞經歡喜，¶
 前為佛作禮而去。¶
-犍陀國王經
+揵陀國王經
