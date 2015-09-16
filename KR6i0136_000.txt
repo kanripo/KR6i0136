@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 犍陀國王經
+#+DATE: 2015-08-30 20:10:46.901769
+#+PROPERTY: JUAN 0
